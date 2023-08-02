@@ -1,6 +1,6 @@
 # clone_tela_instagram
 
-A new Flutter project.
+Tela principal do instagram clonada para fim de estudos do framework Flutter.
 
 ## Getting Started
 
